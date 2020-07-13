@@ -4,9 +4,9 @@ Passionate about technology, even more about development.
 
 “Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates
 
-|   Programming languages ​​I've used   |                                                  Technologies I've used                                                  |
-| :-----------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| JavaScript, HTML, CSS, C++, Java, SQL | NodeJS, ReactJS, React Native, Redux, Svelte, TypeScript, Jest, Nunjucks, Postgres, SQLite, MongoDB, Git, Github, Docker |
+|   Programming languages ​​I've used   |                                                      Technologies I've used                                                       |
+| :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| JavaScript, HTML, CSS, C++, Java, SQL | NodeJS, ReactJS, React Native, Redux, Svelte, TypeScript, Jest, Nunjucks, Postgres, SQLite, MongoDB, Git, Github, Docker, TypeORM |
 
 ---
 
