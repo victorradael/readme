@@ -8,6 +8,6 @@
 
 Passionate about technology, even more about development.
 
-![Moble and Web](./assets/fullstack.svg)
+![Moble and Web](https://lh3.googleusercontent.com/proxy/r52sFd8nNNKV5jgyLZD7-EXTEub6g_wxCJcwIJAoBskEsjHlXeAIx4hW7Is-DqMwzZJZvgvq4hekJa_kb279wlBbYbBar9FxQRx3H4YOfrV3xkPBPgw)
 
 “Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates
