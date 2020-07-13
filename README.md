@@ -1,10 +1,4 @@
-<div style="width:20%">
-
-![Chilling](https://image.flaticon.com/icons/png/512/1488/1488581.png)
-
-</div>
-
-# Victor Radael 🌐
+# Victor Radael 🌐 👨‍💻
 
 Passionate about technology, even more about development.
 
