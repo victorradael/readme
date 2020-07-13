@@ -1,4 +1,4 @@
-# Victor Radael 🌐 👨‍💻
+# Victor Radael 👨‍💻🌐
 
 Passionate about technology, even more about development.
 
