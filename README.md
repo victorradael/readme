@@ -13,3 +13,5 @@ Passionate about technology, even more about development.
 [![Twitter Badge](https://img.shields.io/badge/-@victorradael-071753?style=flat-square&labelColor=071753&logo=twitter&logoColor=white&link=https://twitter.com/victorradael)](https://twitter.com/victorradael)
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Radael-071753?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorradael/)](https://www.linkedin.com/in/victorradael/)
 [![Hotmail Badge](https://img.shields.io/badge/-victorradael@hotmail.com-071753?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:victorradael@hotmail.com)](mailto:victorradael@hotmail.com)
+
+My personal website: [victorradael.netlify.app](https://victorradael.netlify.app/)
