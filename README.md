@@ -16,9 +16,13 @@
 
 <p align="center"> 
   
+  <div >
+  
   <img src="https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight" alt="victorradael" /> 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="victorradael lenguages status" />
+  
+  </div>
 
 </p>
 
