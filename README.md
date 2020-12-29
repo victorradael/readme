@@ -21,5 +21,5 @@
 <p align="center">
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorradael" height="20" width="20" /></a>
-<a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorradael" height="20" width="20" /></a>
+<a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorradael" height="20" width="20" color="#fff"/></a>
 </p>
