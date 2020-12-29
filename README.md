@@ -16,13 +16,13 @@
 
 <p align="center"> 
   
-  <div style="background: #ffe7e8; border: 2px solid #e66465;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight" alt="victorradael" /> 
+  
+  ![alt-text-1](https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="victorradael lenguages status" />
   
-  </div>
+  
 
 </p>
 
