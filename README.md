@@ -20,7 +20,7 @@
   
   ![alt-text-1](https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="victorradael lenguages status" />
+  ![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight)
   
   
 
