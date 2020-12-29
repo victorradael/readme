@@ -1,12 +1,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victorradael" alt="victorradael" /> </p>
 
-<h1 align="left">Hi 👋, I'm Victor G A Radael 👨‍💻🌐</h1>
-
-<p align="center">
+<p align="right">
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorradael" height="20" width="20" /></a>
 </p>
+
+<h1 align="left">Hi 👋, I'm Victor G A Radael 👨‍💻🌐</h1>
 
 <h3 align="left">Passionate about technology, even more about development.</h3>
 
