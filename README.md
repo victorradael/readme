@@ -3,7 +3,7 @@
 <p align="right">
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorradael" height="20" width="20" /></a>
-<a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorradael" height="20" width="20" /></a>
+<a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="victorradael" height="20" width="20" /></a>
 </p>
 
 <h1 align="left">Hi 👋, I'm Victor G A Radael 👨‍💻🌐</h1>
