@@ -22,7 +22,7 @@
 
 <p align="center"> 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
   
