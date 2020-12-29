@@ -16,8 +16,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&theme=tokyonight" alt="victorradael" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorradael" height="20" width="20" /></a>
