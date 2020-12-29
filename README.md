@@ -22,9 +22,9 @@
 
 <p align="center"> 
   
-  ![alt-text-1](https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&show_icons=true&count_private=true&theme=tokyonight" alt"Victor Radael Status"/>
   
-  ![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt"Victor Radael Status"/>
   
 </p>
 
