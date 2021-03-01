@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Victor G A Radael 👨‍💻🌐</h1>
 
-<p align="right"> 
+<p align="right" align-items="center"> 
  
 <img src="https://komarev.com/ghpvc/?username=victorradael" alt="victorradael" />
 <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384062.svg" alt="victorradael" height="20" width="20" /></a>
