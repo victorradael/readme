@@ -28,6 +28,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
 
-![Snake animation](https://github.com/victorradael/victorradael/blob/output/github-contribution-grid-snake.svg)
-
 </p>
+
+![Snake animation](https://github.com/victorradael/victorradael/blob/output/github-contribution-grid-snake.svg)
