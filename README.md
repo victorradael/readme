@@ -4,7 +4,7 @@
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384065.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://www.facebook.com/victorradaelx" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="victorradael" height="20" width="20" /></a> </h1>
 
-<p align="right"> 
+<p align="right">
 
 <a href="https://www.codewars.com/users/victorradael" target="blank"><img align="center" src="https://www.codewars.com/users/victorradael/badges/micro" alt="victorradael"  /></a>
 
@@ -27,5 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
-  
+
+![Snake animation](https://github.com/victorradael/victorradael/blob/output/github-contribution-grid-snake.svg)
+
 </p>
