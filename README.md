@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Victor G A Radael <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384062.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="victorradael" height="20" width="20" /></a>
 <a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384065.svg" alt="victorradael" height="20" width="20" /></a>
-<a href="https://www.facebook.com/victorradaelx" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="victorradael" height="20" width="20" /></a> </h1>
+<a href="https://www.facebook.com/victorradaelx" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="20" width="20" /></a> </h1>
 
 <p align="right">
 
