@@ -20,13 +20,13 @@
   <img src="./assets/waves.gif" style="width:170px;height:170px;" alt="Victor Radael Sound"/>
 </div>
 
-    - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
+- 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
 
-    - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
+- 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
 
-    - 📫 How to reach me **victorradael@hotmail.com**
+- 📫 How to reach me **victorradael@hotmail.com**
 
-    - ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
+- ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
