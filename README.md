@@ -28,6 +28,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
 
-  <img src="./assets/waves.gif" style="width:300px;height:400px;" alt="Victor Radael Sound"/>
+  <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
 
 </p>
