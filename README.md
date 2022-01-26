@@ -17,7 +17,7 @@
 <div>
   <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
   <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
-  <div>
+
 
     - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
 
@@ -27,7 +27,6 @@
 
     - ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
 
-  </div>
 </div>
 
 <p align="center"> 
