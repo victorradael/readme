@@ -16,8 +16,9 @@
 
 <div>
   <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
   <div>
-  
+
     - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
 
     - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
@@ -31,7 +32,7 @@
 
 <p align="center"> 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
+ 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
 
