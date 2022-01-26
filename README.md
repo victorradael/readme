@@ -17,7 +17,7 @@
 <div>
   <img src="./assets/waves.gif" style="width:170px;height:170px;" alt="Victor Radael Sound"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
-  <img src="./assets/waves.gif" style="width:200px;height:200px;" alt="Victor Radael Sound"/>
+  <img src="./assets/waves.gif" style="width:170px;height:170px;" alt="Victor Radael Sound"/>
 </div>
 
     - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
