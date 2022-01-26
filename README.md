@@ -14,20 +14,24 @@
 
 <h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates</h4>
 
-- 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
+<div>
+  <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
+  <div>
+    - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
 
-- 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
+    - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
 
-- 📫 How to reach me **victorradael@hotmail.com**
+    - 📫 How to reach me **victorradael@hotmail.com**
 
-- ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
+    - ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
+
+  </div>
+</div>
 
 <p align="center"> 
   
   <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
-
-  <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
 
 </p>
