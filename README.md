@@ -17,6 +17,7 @@
 <div>
   <img src="./assets/waves.gif" style="width:250px;height:250px;" alt="Victor Radael Sound"/>
   <div>
+  
     - 👨‍💻 All of my projects are available at [radaeldeveloper.vercel.app](https://radaeldeveloper.vercel.app)
 
     - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
