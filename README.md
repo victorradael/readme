@@ -16,7 +16,7 @@
 
 <div>
   <img src="./assets/waves.gif" style="width:200px;height:200px;" alt="Victor Radael Sound"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
   <img src="./assets/waves.gif" style="width:200px;height:200px;" alt="Victor Radael Sound"/>
 </div>
 
@@ -29,9 +29,5 @@
     - ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
 
 <p align="center"> 
-  
- 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
 </p>
