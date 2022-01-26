@@ -14,7 +14,7 @@
 
 <h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates</h4>
 
-<div>
+<div align="center">
   <img src="./assets/waves.gif" style="width:170px;height:170px;" alt="Victor Radael Sound"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
   <img src="./assets/waves.gif" style="width:170px;height:170px;" alt="Victor Radael Sound"/>
