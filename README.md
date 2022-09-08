@@ -1,8 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=victorradael" alt="victorradael" />
 <h1 align="left">Hi 👋, I'm Victor G A Radael <a href="https://linkedin.com/in/victorradael" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/143/143627.png" alt="victorradael" height="20" width="20" /></a>
-<a href="https://instagram.com/victorradael" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="victorradael" height="20" width="20" /></a>
-<a href="https://twitter.com/victorradael" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="victorradael" height="20" width="20" /></a>
-<a href="https://www.facebook.com/victorradaelx" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="20" width="20" /></a> </h1>
+</h1>
 
 <p align="right">
 
