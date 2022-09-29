@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
 
-- 📫 How to reach me **victorradael@hotmail.com**
+- 📫 How to reach me **victor@radael.com**
 
 - ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
 
