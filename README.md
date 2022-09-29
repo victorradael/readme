@@ -18,7 +18,7 @@
 
 </div>
 
-- 👨‍💻 All of my projects are available at [radaeldeveloper.com](https://radaeldeveloper.com)
+- 👨‍💻 All of my projects are available at [radael.com](https://radael.com)
 
 - 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
 
