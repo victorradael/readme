@@ -12,20 +12,14 @@
 
 <h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates</h4>
 
+- 👨‍💻 All of my projects are available at [radael.com](https://radael.com)
+
+- 💬 Ask me about **programming and software development**, if I don't know, I'll learn to answer.
+
+- ⚡ Fun fact **I was almost a Military Pilot but I became a Software Engineer.**
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorradael&layout=compact&theme=tokyonight" alt="Victor Radael Status"/>
 
 </div>
-
-- 👨‍💻 All of my projects are available at [radael.com](https://radael.com)
-
-- 💬 Ask me about **NodeJS, ReactJS, React Native, HTML, CSS, TypeScript, JavaScript, Styled-Components**
-
-- 📫 How to reach me **victorradael@gmail.com**
-
-- ⚡ Fun fact **I was almost a military pilot but I became a programmer.**
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=victorradael&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight" alt="Victor Radael Status"/>
-</p>
