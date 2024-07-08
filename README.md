@@ -8,7 +8,7 @@
 
 <h3 align="left">Passionate about technology, even more about development.</h3>
 
-<h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where most don't, do it or most don't. " - Bill Gates</h4>
+<h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up on your first attempts, persistence is the friend of achievement. If you want to get where most people don't, do what most people don't do. " - Bill Gates</h4>
 
 - 👨‍💻 All of my projects are available at [radael.com](https://radael.com)
 
