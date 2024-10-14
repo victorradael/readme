@@ -11,7 +11,7 @@
 
 <h4 align="left">“Try it once, twice, three times and try a fourth, a fifth and as many times as necessary. Just don't give up on your first attempts, persistence is the friend of achievement. If you want to get where most people don't, do what most people don't do. " - Bill Gates</h4>
 
-- 👨‍💻 Most of my hard skills are listed on [radael.com](https://radael.com)
+- 👨‍💻 Most of my hard skills are listed on [victorradael.dev](https://victorradael.dev)
 
 - 💬 Ask me about **programming and software development**, if I don't know, I'll learn to answer.
 
