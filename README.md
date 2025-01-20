@@ -1,6 +1,4 @@
 
-<img align="center" src="https://www.codewars.com/users/victorradael/badges/micro" alt="victorradael"  />
-
 <img src="https://komarev.com/ghpvc/?username=victorradael" alt="victorradael" />
 
 
